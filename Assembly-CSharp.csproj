@@ -47,6 +47,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraPanZoom.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Board.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Game.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Nation.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Order.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Player.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Region.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Turn.cs" />
+    <Compile Include="Assets\Scripts\GameLogic\Units.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.0.39f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -921,8 +929,6 @@
     <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
       <HintPath>C:\Users\tilau\Foreign Policy\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
-  </ItemGroup>
-  <ItemGroup>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

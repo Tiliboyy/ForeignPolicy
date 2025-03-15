@@ -472,3 +472,7 @@ C:\Users\tilau\Foreign Policy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs
 C:\Users\tilau\Foreign Policy\obj\Debug\Assembly.44154EF1.Up2Date
 C:\Users\tilau\Foreign Policy\obj\Debug\Assembly-CSharp.dll
 C:\Users\tilau\Foreign Policy\obj\Debug\Assembly-CSharp.pdb
+D:\Projects\Programming\ForeignPolicy\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Projects\Programming\ForeignPolicy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\ForeignPolicy\obj\Debug\Assembly-CSharp.dll
+D:\Projects\Programming\ForeignPolicy\obj\Debug\Assembly-CSharp.pdb
